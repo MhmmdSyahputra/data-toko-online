@@ -1,5 +1,5 @@
 {
-  "kategori":[
+  "kategori": [
     {
       "id": 1,
       "nama": "Elektronik",
@@ -671,99 +671,34 @@
   "keranjangs": [
     {
       "jumlah": 1,
-      "total_harga": 4200000,
+      "total_harga": 9251,
       "products": {
-        "id": 10,
-        "kode": "K-10",
-        "nama": "VGA ASUS Dual Geforce GTX1650 4GB",
-        "harga": 4200000,
+        "id": 13,
+        "kode": "K-13",
+        "nama": "KENMASTER Sikat Kawat Mini",
+        "harga": 9251,
         "is_ready": true,
-        "category": "Komputer & Laptop",
-        "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992705911627989072/62d74f9c-027b-4619-b068-9ba5ef93672b.jpg",
-        "deskripsi": "Seluruh produk yang kami jual merupakan 100 baru, garansi resmi dan kepuasan Anda adalah prioritas kamiASUS Dual GeForce GTX 1650 OC edition 4GB GDDR5 is your ticket into PC gaming. The ASUS Dual GeForce GTX 1650 is built with the breakthrough graphics performance of the award-winning NVIDIA Turing architecture to supercharge your favorite games. Get game ready with performance thats twice as fast as the GeForce GTX 950 and up to 70x faster than the GTX 1050. GeForce Experience lets you capture and share videos, screenshots, and livestreams with friends, keep your GeForce drivers up to date, and easily optimize your in-game settings. IP5X dust resistance offers protection from particle ingress for better durability. Auto-Extreme Technology uses automation to enhance reliability. 144-Hour Validation Program puts cards through a series of stringent tests to ensure compatibility with the latest games. GPU Tweak II provides intuitive performance tweaking, thermal controls, and system monitoring."
+        "category": "Perlengkapan Rumah",
+        "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992706604145332275/4604_06dcc8c3-4868-4df4-8465-2138d70b1022_700_700.jpg",
+        "deskripsi": "Sikat mini serba guna terdiri dari 3 buah sikat ukuran sikat gigi dengan variasi bulu : sikat kawat baja (steel), sikat kawat kuningan (brass), dan sikat kawat nilon (nylon)."
       },
       "id": 1
     },
     {
       "jumlah": 1,
-      "total_harga": 14569000,
+      "total_harga": 124000000,
       "products": {
-        "id": 5,
-        "kode": "K-05",
-        "nama": "ASUS TUF GAMING F15 FX506LH-I765B8T-O",
-        "harga": 14569000,
-        "is_ready": true,
-        "category": "Komputer & Laptop",
-        "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992704669510021170/c72e588a9d51ed72bdb056f8579744c6.jpg",
-        "deskripsi": "ASUS TUF GAMING F15 FX506LH-I765B8T-O[Intel Core i5-11400H / RTX3050 4GB / 16GB / 512GB SSD / 15.6inch / Win11 / OHS]. - Kelengkapan Paket Laptop, kartu garansi, buku panduan, adaptor,Berat 2.3 kg, Dimensi Produk 35.9 x 25.6 x 2.28 ~ 2.43 cm (WxDxH), Baterai 48WHrs, 3S1P, 3-cell Li-ion ,Interface 1 x COMBO audio jack 2 x Type-A USB 3.2 (Gen 1) 1 x Type-C USB 3.2 (Gen 2) with display support 1 x Type-A USB2.0 1 x RJ45 LAN jack for LAN insert 1 x HDMI, HDMI support 2.0b 1 x AC adapter plug .Wireless Protocol Type Integrated Wi-Fi 6 (802.11 ax)"
-      },
-      "id": 2
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 105000,
-      "products": {
-        "id": 4,
-        "kode": "K-04",
-        "nama": "Johnson Basic LowCut",
-        "harga": 105000,
-        "is_ready": true,
-        "category": "Sepatu",
-        "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992747759981572156/e91f6f1f27f07162b6f08468f3ba2461.jpg",
-        "deskripsi": "Sepatu sekolah ini didesign stylish dan nyaman untuk digunakan. Menggunakan bahan kain kanvas dan sol karet , sepatu sekolah Johnson sangat nyaman digunakan sehari - hari. Ukuran Insole/ Sol Dalam: ( Harap Perhatikan Ukuran ya, untuk menghindari salah nomor)"
-      },
-      "id": 3
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 69900,
-      "products": {
-        "id": 16,
-        "kode": "K-16",
-        "nama": "Skittish Parfum BUY 1 GET 1",
-        "harga": 69900,
-        "is_ready": true,
-        "category": "Fashion Pria",
-        "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992707363356291172/f88c4e3bad7a980c1800f70330035d33.jpg",
-        "deskripsi": "SKITTISS PARFUM merupakan sebuah produk parfum EDP yang diformulasikan untuk laki-laki khususnya. Yang memiliki 3 aroma sekaligus bikin para wanita terpikat. Parfum elegan, simple dan mewah ? Ya Skittisss Parfum"
-      },
-      "id": 4
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 6600,
-      "products": {
-        "id": 43,
-        "kode": "K-43",
-        "nama": "Sarung Tangan Motor",
-        "harga": 6600,
+        "id": 17,
+        "kode": "K-17",
+        "nama": "Kawasaki Ninja ZX25R SE",
+        "harga": 124000000,
         "is_ready": true,
         "category": "Otomotif",
-        "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992874739041312788/Sarung_Tangan_Motor_Eiger_Riding_Corvette_001.jpg",
-        "deskripsi": "Sarung tangan ini sangan sangat cocok di gunakan di berbagai aktifitas sehari hari,  bisa di gunakan untuk melindungi paparan sinar matahari langsung saat berkendara motor dan bersepeda. Warna atau corak pada gambar tidak mengikat. Untuk pengiriman warna di kirim random acak sesuai setok"
+        "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992707566956195891/1111728730.jpeg",
+        "deskripsi": "Melayani Pembelian All Unit Kawasaki, Kami hanya bisa terbitkan faktur Jawa Timur n NTT saja, Harap menghubungi nomer dahulu sebelum melakukan pemesanan."
       },
-      "id": 5
+      "id": 2
     }
   ],
-  "pesanans": [
-    {
-      "nama": "putra",
-      "Nomeja": "12",
-      "keranjangs": [
-        {
-          "jumlah": "1",
-          "products": {
-            "id": 2,
-            "kode": "K-02",
-            "nama": "Nasi Goreng Telur",
-            "harga": 14000,
-            "is_ready": true,
-            "gambar": "nasi-goreng-telor.jpg"
-          },
-          "id": 1
-        }
-      ],
-      "id": 1
-    }
-  ]
+  "pesanans": []
 }
