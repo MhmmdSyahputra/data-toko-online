@@ -86,6 +86,186 @@
       "is_ready": true,
       "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992747106873905213/c74498b9ca33218caec3bae3d02c154a.jpg",
       "deskripsi": "Celana panjang wanita dengan cutting ankle-length dan loose straight. Celana wanita ini memiliki design buckle disamping depan dan pita untuk tampilan manis. Terdapat kantong di bagian samping kiri dan kanan untuk membantu dalam beraktifitas."
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Monocozzi Lucid Translucent Hard Shell MacBook Air 13",
+      "harga": 649000,
+      "is_ready": true,
+      "category": "Komputer & Laptop",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992704145704353792/d6d1ca02a5042d130dc9abab2c5fe2d3.jpg",
+      "deskripsi": "Monocozzi Lucid Translucent Hard Shell MacBook Air 13 Touch Bar - White. Spec : Macbook Air 13. Drop Protection"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Johnson Basic LowCut",
+      "harga": 105000,
+      "is_ready": true,
+      "category": "Sepatu",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992747759981572156/e91f6f1f27f07162b6f08468f3ba2461.jpg",
+      "deskripsi": "Sepatu sekolah ini didesign stylish dan nyaman untuk digunakan. Menggunakan bahan kain kanvas dan sol karet , sepatu sekolah Johnson sangat nyaman digunakan sehari - hari. Ukuran Insole/ Sol Dalam: ( Harap Perhatikan Ukuran ya, untuk menghindari salah nomor)"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "ASUS TUF GAMING F15 FX506LH-I765B8T-O",
+      "harga": 14569000,
+      "is_ready": true,
+      "category": "Komputer & Laptop",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992704669510021170/c72e588a9d51ed72bdb056f8579744c6.jpg",
+      "deskripsi": "ASUS TUF GAMING F15 FX506LH-I765B8T-O[Intel Core i5-11400H / RTX3050 4GB / 16GB / 512GB SSD / 15.6inch / Win11 / OHS]. - Kelengkapan Paket Laptop, kartu garansi, buku panduan, adaptor,Berat 2.3 kg, Dimensi Produk 35.9 x 25.6 x 2.28 ~ 2.43 cm (WxDxH), Baterai 48WHrs, 3S1P, 3-cell Li-ion ,Interface 1 x COMBO audio jack 2 x Type-A USB 3.2 (Gen 1) 1 x Type-C USB 3.2 (Gen 2) with display support 1 x Type-A USB2.0 1 x RJ45 LAN jack for LAN insert 1 x HDMI, HDMI support 2.0b 1 x AC adapter plug .Wireless Protocol Type Integrated Wi-Fi 6 (802.11 ax)"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "dbE GM210 7.1 Virtual Surround Gaming Headphone",
+      "harga": 299000,
+      "is_ready": true,
+      "category": "Gaming",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992704905313800232/785dda0c-a586-4cfa-b271-8ceba7088571.jpg",
+      "deskripsi": "Setelah bertahun-tahun kami mengembangkan gaming headphone, kami sadar bahwa kenyamanan adalah syarat utama gaming headphone yang baik karena gaming headphone ini sering sekali digunakan selama berjam-jam tanpa henti. Sebagai jawaban dari kebutuhan costumer akan gaming headset yang nyaman dan bersuara bagus, kami mengembangkan dbE GM210. dbE GM210 adalah gaming headset yang sangat nyaman digunakan, total berat bagian headsetnya hanya 293 gram. Clamping force GM210 juga sudah disesuaikan sehingga cukup nyaman digunakan bagi user yang berkacamata. Karakter suara GM210 ini netral dengan bass tight dan soundstage luas. Kami memilih menggunakan sound signature ini untuk membuat user GM210 bisa merasakan suasana game tanpa ada satu frekuensipun yang berlebihan termasuk bass."
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Onikuma X20 RGB Gaming Headset",
+      "harga": 139000,
+      "is_ready": true,
+      "category": "Gaming",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992705102429302805/2356595eea06931fa659daf02bdf0cc8.jpg",
+      "deskripsi": "Penutup telinga besar yang dibungkus penuh, pas nyaman, mengisolasi kebisingan lingkungan dan meningkatkan pengalaman bermain. Desain balok kepala suspensi sayap terbang dan fit adaptif. Ini mengadopsi mikrofon omnidirectional, kepala mikrofon cahaya biru es dan batang ketangguhan tinggi untuk secara akurat mengambil suara dan menolak kebisingan saat ini, sehingga membuat hambatan komunikasi gratis."
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "FNGEEN 5055 Jam Tangan Pria",
+      "harga": 88000,
+      "is_ready": true,
+      "category": "Fashion Pria",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992705317286723684/bce996c53bb689bcb0147eb59a1eaf69.jpg",
+      "deskripsi": "Harap Dibaca Sebelum Membeli Utk Menghindari Kesalahpahaman. 1.Jika anda khawatir paket yang anda terima tidak sesuai dengan yang anda pesan, silahkan buat video unpacking setelah paket diterima. 2.Mohon cek informasi alamat dan varian produk serta jumlah yang dipesan sebelum checkout, kami tidak menerima perubahan nama, nomor, alamat atau barang setelah pengiriman. Mohon mengertila"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Apple iPhone 11 128GB",
+      "harga": 8749000,
+      "is_ready": true,
+      "category": "Handphone & Tablet",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992705689665417247/828791f21909cee1ca573fd1126dde44.jpg",
+      "deskripsi": "Rekam video 4K, potret yang indah, dan lanskap yang lebih luas dengan sistem kamera ganda yang sepenuhnya baru. Ambil foto berpencahayaan rendah terbaik dengan mode Malam. Lihat warna yang begitu nyata dalam foto, video, dan game di layar Liquid Retina 6,1 inci. Nikmati performa tak tertandingi dengan A13 Bionic untuk game, augmented reality (AR), dan fotografi. Lakukan lebih banyak hal tanpa perlu sering mengisi daya dengan kekuatan baterai sepanjang hari. Dan nikmati ketenangan dengan ketahanan air hingga 2 meter selama 30 menit"
+    },
+    {
+      "id": 10,
+      "kode": "K-10",
+      "nama": "VGA ASUS Dual Geforce GTX1650 4GB",
+      "harga": 4200000,
+      "is_ready": true,
+      "category": "Komputer & Laptop",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992705911627989072/62d74f9c-027b-4619-b068-9ba5ef93672b.jpg",
+      "deskripsi": "Seluruh produk yang kami jual merupakan 100 baru, garansi resmi dan kepuasan Anda adalah prioritas kamiASUS Dual GeForce GTX 1650 OC edition 4GB GDDR5 is your ticket into PC gaming. The ASUS Dual GeForce GTX 1650 is built with the breakthrough graphics performance of the award-winning NVIDIA Turing architecture to supercharge your favorite games. Get game ready with performance thats twice as fast as the GeForce GTX 950 and up to 70x faster than the GTX 1050. GeForce Experience lets you capture and share videos, screenshots, and livestreams with friends, keep your GeForce drivers up to date, and easily optimize your in-game settings. IP5X dust resistance offers protection from particle ingress for better durability. Auto-Extreme Technology uses automation to enhance reliability. 144-Hour Validation Program puts cards through a series of stringent tests to ensure compatibility with the latest games. GPU Tweak II provides intuitive performance tweaking, thermal controls, and system monitoring."
+    },
+    {
+      "id": 11,
+      "kode": "K-11",
+      "nama": "Wireless TWS 5.1 Bluetooth Earphone",
+      "harga": 198999,
+      "is_ready": true,
+      "category": "Handphone & Tablet",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992706114229641277/d0558a7fcbf5330007273cab259956ab.jpg",
+      "deskripsi": "HARAP DIPERHATIKAN! Buatlah video Unboxing pada saat menerima dan membuka paket, untuk mencegah hal-hal yang tidak di inginkan"
+    },
+    {
+      "id": 12,
+      "kode": "K-12",
+      "nama": "Lap Microfiber Premium",
+      "harga": 5495,
+      "is_ready": true,
+      "category": "Perlengkapan Rumah",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992706427384758312/99a8740784149a61137bdb70a856380d.jpg",
+      "deskripsi": "Kain Lap Microfiber Menyerap air lebih banyak. Bisa digunakan untuk detailaing mobil, motor atau untuk laptop, PC, layar kaca dll. Tidak luntur dan tidak meninggalkan baret. Lembut dan sangat ringan. Ukuran 30 x 30 cm ( toleransi potong plus minus 1 cm ) Gramasi kain 280 grm/sqm Gramaai produk, 28 gr/pcs Warna Kuning dan Grey ( abu )"
+    },
+    {
+      "id": 13,
+      "kode": "K-13",
+      "nama": "KENMASTER Sikat Kawat Mini",
+      "harga": 9251,
+      "is_ready": true,
+      "category": "Perlengkapan Rumah",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992706604145332275/4604_06dcc8c3-4868-4df4-8465-2138d70b1022_700_700.jpg",
+      "deskripsi": "Sikat mini serba guna terdiri dari 3 buah sikat ukuran sikat gigi dengan variasi bulu : sikat kawat baja (steel), sikat kawat kuningan (brass), dan sikat kawat nilon (nylon)."
+    },
+    {
+      "id": 14,
+      "kode": "K-14",
+      "nama": "Changhong Google certified Android Smart TV",
+      "harga": 1999000,
+      "is_ready": true,
+      "category": "Elektronik",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992746275797741770/a593ffdd5c377ed174277751403e760e.jpg",
+      "deskripsi": "Changhong Google certified Android Smart TV 32 Inch Digital TV HD LED TV (Model= L32H4).  Pengoperasian cukup mudah, tinggal colok antena digital jika ingin nonton siaran tv biasa lalu pindai saluran. Jika hanya ingin akses internet tinggal connect Wifi. Jika ada kesulitan atau pertanyaan terkait pengoperasian TV bisa gabung dalam group Facebook Changhong Android TV"
+    },
+    {
+      "id": 15,
+      "kode": "K-15",
+      "nama": "SOMETHINC ASAP Eyelash ",
+      "harga": 79000,
+      "is_ready": true,
+      "category": "Perawatan & Kecantikan",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992745887174512690/ASAP_Eyelash_Brow_Treatment_Serum-Lash_Tracker.jpeg",
+      "deskripsi": "ASAP Eyelash & Brow Treatment Serum - Serum Bulu Mata Dapatkan bulu mata lentik sempurna dengan 4x Active Lash & Brow Growth Stimulator untuk memanjangkan, menebalkan, menumbuhkan, serta mencegah kerontokan pada bulu mata & alis sampai 3x lebih banyak dalam 15 hari* dengan kandungan Synergrowth, Biotinoyl Tripeptide-1, Lash Fertilizer serta Pea Extract."
+    },
+    {
+      "id": 16,
+      "kode": "K-16",
+      "nama": "Skittish Parfum BUY 1 GET 1",
+      "harga": 69900,
+      "is_ready": true,
+      "category": "Fashion Pria",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992707363356291172/f88c4e3bad7a980c1800f70330035d33.jpg",
+      "deskripsi": "SKITTISS PARFUM merupakan sebuah produk parfum EDP yang diformulasikan untuk laki-laki khususnya. Yang memiliki 3 aroma sekaligus bikin para wanita terpikat. Parfum elegan, simple dan mewah ? Ya Skittisss Parfum"
+    },
+    {
+      "id": 17,
+      "kode": "K-17",
+      "nama": "Kawasaki Ninja ZX25R SE",
+      "harga": 124000000,
+      "is_ready": true,
+      "category": "Otomotif",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992707566956195891/1111728730.jpeg",
+      "deskripsi": "Melayani Pembelian All Unit Kawasaki, Kami hanya bisa terbitkan faktur Jawa Timur n NTT saja, Harap menghubungi nomer dahulu sebelum melakukan pemesanan."
+    },
+    {
+      "id": 18,
+      "kode": "K-18",
+      "nama": "KINGMA GoPro Max Lcd Glass Screen Protector",
+      "harga": 35600,
+      "is_ready": true,
+      "category": "Hobi & Koleksi",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992707906069872760/98381efc884b185d42ec3a7d0ac2611a.jpg",
+      "deskripsi": "KINGMA GoPro MAX LCD+LEnsTempered Glass Screen Protector Anti Gores merupakan temperred glass (kaca pelindung) yang didesain untuk GoPro MAX action camera, tempered glass ini didesain untuk melindungi screen LCD kamera GoPro MAX Anda. Selain itu anti gores ini dilengkapi installation kit sehingga mempermudah Anda dalam memasang anti gores tersebut. Anda tidak perlu khawatir lagi akan terjadinya goresan pada LCD kamera kesayangan Anda."
+    },
+    {
+      "id": 19,
+      "kode": "K-19",
+      "nama": "SEROKAN MOTIF / serokan pasir",
+      "harga": 6500,
+      "is_ready": true,
+      "category": "Hobi & Koleksi",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992707906069872760/98381efc884b185d42ec3a7d0ac2611a.jpg",
+      "deskripsi": "Serokan untuk kotoran Panjang serokan 27cm. HARGA SUDAH TERMASUK FRRE PACKING."
+    },
+    {
+      "id": 20,
+      "kode": "K-20",
+      "nama": "Onikuma X20 RGB Gaming Headset",
+      "harga": 139000,
+      "is_ready": true,
+      "category": "Gaming",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992705102429302805/2356595eea06931fa659daf02bdf0cc8.jpg",
+      "deskripsi": "Penutup telinga besar yang dibungkus penuh, pas nyaman, mengisolasi kebisingan lingkungan dan meningkatkan pengalaman bermain. Desain balok kepala suspensi sayap terbang dan fit adaptif. Ini mengadopsi mikrofon omnidirectional, kepala mikrofon cahaya biru es dan batang ketangguhan tinggi untuk secara akurat mengambil suara dan menolak kebisingan saat ini, sehingga membuat hambatan komunikasi gratis."
     }
   ],
   "keranjangs": [],
