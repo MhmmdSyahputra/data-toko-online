@@ -49,22 +49,8 @@
       "id": 10,
       "nama": "Perlengkapan Rumah",
       "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/993058510533296179/Untitled_design_27.png"
-    },
-    {
-      "id": 11,
-      "nama": "Perawatan & Kecantikan",
-      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/993058869347631146/Untitled_design_28.png"
-    },
-    {
-      "id": 12,
-      "nama": "Kesehatan",
-      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/993059244117082122/Untitled_design_29.png"
-    },
-    {
-      "id": 13,
-      "nama": "Otomotif",
-      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/993059507053793341/Untitled_design_30.png"
     }
+
   ],
   "products": [
     {
