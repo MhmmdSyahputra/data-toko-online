@@ -51,6 +51,16 @@
       "is_ready": true,
       "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992747106873905213/c74498b9ca33218caec3bae3d02c154a.jpg",
       "deskripsi": "Celana panjang wanita dengan cutting ankle-length dan loose straight. Celana wanita ini memiliki design buckle disamping depan dan pita untuk tampilan manis. Terdapat kantong di bagian samping kiri dan kanan untuk membantu dalam beraktifitas."
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Monocozzi Lucid Translucent Hard Shell MacBook Air 13",
+      "harga": 649000,
+      "is_ready": true,
+      "category": "Komputer & Laptop",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992704145704353792/d6d1ca02a5042d130dc9abab2c5fe2d3.jpg",
+      "deskripsi": "Monocozzi Lucid Translucent Hard Shell MacBook Air 13 Touch Bar - White. Spec : Macbook Air 13. Drop Protection"
     }
     
   ],
