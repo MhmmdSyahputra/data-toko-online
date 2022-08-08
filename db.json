@@ -39,18 +39,7 @@
       "id": 8,
       "nama": "Olahraga",
       "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/993057880100061234/Untitled_design_25.png"
-    },
-    {
-      "id": 9,
-      "nama": "Hobi & Koleksi",
-      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/993058206744072202/Untitled_design_26.png"
-    },
-    {
-      "id": 10,
-      "nama": "Perlengkapan Rumah",
-      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/993058510533296179/Untitled_design_27.png"
     }
-
   ],
   "products": [
     {
