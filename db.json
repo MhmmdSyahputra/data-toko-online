@@ -266,6 +266,46 @@
       "category": "Gaming",
       "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992705102429302805/2356595eea06931fa659daf02bdf0cc8.jpg",
       "deskripsi": "Penutup telinga besar yang dibungkus penuh, pas nyaman, mengisolasi kebisingan lingkungan dan meningkatkan pengalaman bermain. Desain balok kepala suspensi sayap terbang dan fit adaptif. Ini mengadopsi mikrofon omnidirectional, kepala mikrofon cahaya biru es dan batang ketangguhan tinggi untuk secara akurat mengambil suara dan menolak kebisingan saat ini, sehingga membuat hambatan komunikasi gratis."
+    },
+    {
+      "id": 21,
+      "kode": "K-21",
+      "nama": "Chain lube megacools",
+      "harga": 18500,
+      "is_ready": true,
+      "category": "Otomotif",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992860780053659748/1d2c9c13ffe25d7393aae203aea10fe9.jpg",
+      "deskripsi": "Chain Lube adalah pelumas rantai dengan standar aman untuk segala jenis rantai yang diproduksi oleh Megacools - Easy Maintenance. Terbukti aman dan efektif mencegah rantai seret dan berfungsi untuk melumasi segala jenis rantai."
+    },
+    {
+      "id": 22,
+      "kode": "K-22",
+      "nama": "BIO CREAMY TREATS",
+      "harga": 12888,
+      "is_ready": true,
+      "category": "Hobi & Koleksi",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992861471992193044/44721058a2524169.jpg",
+      "deskripsi": "New Product by Baim Wong Produksi selalu terbaru setiap bulannya, masa kadaluarsa 18 bulan dr tanggal produksi dan kami selalu menjual yg fresh produksi long expired"
+    },
+    {
+      "id": 23,
+      "kode": "K-23",
+      "nama": "250ML SHAMPO KUCING SHAMPO ANTI KUTU",
+      "harga": 18000,
+      "is_ready": true,
+      "category": "Hobi & Koleksi",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992862547571118190/b8f66f29119c8c138dca715382fae631.jpg",
+      "deskripsi": "Hai kak, TIDAK ADA RESELLER KAMI YG MENJUAL KIN+KAND SHAMPO MICONAZOLE DI BAWAH HARGA KAMI YA KAK. Mhn untuk tidak keliru dan tidak menyalahkan jika salah beli d toko lain, lantaran kemasan dan packagingnya menyerupai kami. Terima kasih~"
+    },
+    {
+      "id": 24,
+      "kode": "K-24",
+      "nama": "TOFU SLIME BTS",
+      "harga": 9800,
+      "is_ready": true,
+      "category": "Hobi & Koleksi",
+      "gambar": "https://cdn.discordapp.com/attachments/972198684550897696/992862792879177728/5098c4a43955d92e9330fb8bdc70bc3b.jpg",
+      "deskripsi": "Apabila cup slime pacah itu bukan kesalahan kami melainkan expedisi. Kita sudah meminimalisir supaya tidak pecah ketika barang sampe di pembeli. Dengan Bubble wrap, kardus dan tulisan jangan dibanting. Tp kita tidak tahu kurirnya membanting barangnya atau tidak saat pengiriman. Jadi diharap maklum ya karena cup juga dr plastik dan bisa pecah. Tp Biasanya slime aman masi di dalam cup atau di bubble wrap."
     }
   ],
   "keranjangs": [],
